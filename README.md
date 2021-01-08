@@ -13,7 +13,7 @@
 Projet réalisé suite au cours "Développez des applications Web avec Angular" suivi chez OpenClassrooms (https://openclassrooms.com)
 L'application nécessite l'authentification. J'ai changé un peu le sujet :)
 
-###Technologies
+###  Technologies
 * Système d'exploitation: Linux Mint
 * NodeJs v14.15.4
 * Angular 10
