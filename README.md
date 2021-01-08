@@ -18,7 +18,7 @@ L'application nécessite l'authentification. J'ai changé un peu le sujet :)
 * NodeJs v14.15.4
 * Angular 10
 * Firebase 8
-### Installation
+###  Installation
 * git clone url
 * cd../path/to/the/file
 * npm install
@@ -43,4 +43,4 @@ L'application nécessite l'authentification. J'ai changé un peu le sujet :)
 * _ng g s services/movies_
 * _ng g s services/auth-guard_
 
-####Enjoy! :)
+####  Enjoy! :)
