@@ -17,7 +17,8 @@ L'application nécessite l'authentification. J'ai changé un peu le sujet :)
   * les films peuvent être consultès sous forme d'une liste complète, puis individuellement.
   * les films peuvent être ajoutés ou supprimés.
   * il y a un modèle pour les films comportant simplement le titre, le réalisateur, le scénario, les acteurs (la photo et le résumé du film sont facultatives).
-  * backend: les données du formulaire se chargent bien dans la base de données sur Firebase.
+  * backend avec le service Google: Firebase. Ce service permet la création d'un backend complet sans codage, et node comprend de nombreux services, dont l'authentification,    une base de données NoSQL et le stockage de fichiers.Les données du formulaire se chargent bien dans la base de données sur Firebase.
+  
 ###  Technologies
 * Système d'exploitation: Linux Mint
 * NodeJs v14.15.4
