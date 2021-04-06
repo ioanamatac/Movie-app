@@ -25,15 +25,13 @@ L'application nécessite l'authentification. J'ai changé un peu le sujet :)
 * Angular 10
 * Firebase 8
 ###  Installation
-* git clone url
+* git clone https://github.com/ioanamatac/movie-App.git
 * cd../path/to/the/file
 * npm install
 * npm start
 * http://localhost:4200/movies
 
-### Side information
-
-#### Creation de composants:
+#### Creation of components:
 * _ng g c auth/signup_
 
 * _ng g c auth/signin_
